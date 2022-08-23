@@ -1,1 +1,5 @@
-## Generador y Decodificador de Passwords realizado con la librería random de Python.
+## Generador y Codificador de Passwords realizado con Python.
+
+* Librerías utilizadas: 
+    * random.
+    * werkzeug.
